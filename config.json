@@ -1,0 +1,5 @@
+{
+    "gitlab_token": "YOUR_GITLAB_TOKEN_HERE",
+    "project_id": "YOUR_PROJECT_ID_HERE",
+    "gitlab_url": "https://gitlab.com"
+}
